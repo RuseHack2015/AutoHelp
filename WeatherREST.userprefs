@@ -1,0 +1,32 @@
+﻿<Properties StartupItem="WeatherREST\WeatherREST.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus 7 (KitKat)" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WeatherREST\MainActivity.cs">
+    <Files>
+      <File FileName="WeatherREST\MainActivity.cs" Line="85" Column="1" />
+      <File FileName="WeatherREST\ListViewAdapter.cs" Line="23" Column="3" />
+      <File FileName="WeatherREST\Resources\layout\Main.axml" Line="70" Column="47" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WeatherREST" expanded="True">
+            <Node name="WeatherREST" expanded="True">
+              <Node name="Entity" expanded="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="layout" expanded="True" />
+              </Node>
+              <Node name="MainActivity.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

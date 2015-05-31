@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>    
+    <string name="ApplicationName">Find Help</string>
+    <string name="type_prompt">Choose a service</string>
+    <string name="btn_search">Search</string>
+    <string-array name="type_array">
+        <item>Всички</item>
+        <item>Авточасти и консумативи</item>
+        <item>Диагностика</item>
+        <item>Застраховки</item>
+        <item>Ремонтни дейност</item>
+        <item>Техническо обслужване</item>
+    </string-array>
+</resources>

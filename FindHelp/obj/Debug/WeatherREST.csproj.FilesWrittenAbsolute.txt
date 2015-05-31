@@ -1,0 +1,14 @@
+/Users/CuCTeMeH/Downloads/WeatherREST/WeatherREST/obj/Debug/MonoAndroid,Version=v4.4.AssemblyAttribute.cs
+/Users/CuCTeMeH/Downloads/WeatherREST/WeatherREST/bin/Debug/WeatherREST.dll.mdb
+/Users/CuCTeMeH/Downloads/WeatherREST/WeatherREST/bin/Debug/WeatherREST.dll
+/Users/CuCTeMeH/Downloads/WeatherREST/WeatherREST/bin/Debug/WeatherREST.WeatherREST.apk
+/Users/CuCTeMeH/Downloads/WeatherREST/WeatherREST/obj/Debug/android/bin/WeatherREST.WeatherREST.apk
+/Users/CuCTeMeH/Downloads/WeatherREST/WeatherREST/obj/Debug/res/layout/main.xml
+/Users/CuCTeMeH/Downloads/WeatherREST/WeatherREST/obj/Debug/res/values/strings.xml
+/Users/CuCTeMeH/Downloads/WeatherREST/WeatherREST/obj/Debug/res/drawable/icon.png
+/Users/CuCTeMeH/Downloads/WeatherREST/WeatherREST/obj/Debug/R.cs.flag
+/Users/CuCTeMeH/Downloads/WeatherREST/WeatherREST/bin/Debug/WeatherREST.WeatherREST-Signed.apk
+/Users/CuCTeMeH/Downloads/WeatherREST/WeatherREST/obj/Debug/uploadflags.txt
+/Users/CuCTeMeH/Downloads/WeatherREST/WeatherREST/obj/Debug/WeatherREST.dll
+/Users/CuCTeMeH/Downloads/WeatherREST/WeatherREST/obj/Debug/WeatherREST.dll.mdb
+/Users/CuCTeMeH/Downloads/WeatherREST/WeatherREST/bin/Debug/Newtonsoft.Json.dll

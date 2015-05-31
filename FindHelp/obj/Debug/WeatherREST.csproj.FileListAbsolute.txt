@@ -1,0 +1,17 @@
+C:\Users\sonia\Desktop\WeatherREST\WeatherREST\bin\Debug\WeatherREST.dll.mdb
+C:\Users\sonia\Desktop\WeatherREST\WeatherREST\bin\Debug\WeatherREST.dll
+C:\Users\sonia\Desktop\WeatherREST\WeatherREST\bin\Debug\WeatherREST.pdb
+C:\Users\sonia\Desktop\WeatherREST\WeatherREST\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sonia\Desktop\WeatherREST\WeatherREST\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sonia\Desktop\WeatherREST\WeatherREST\obj\Debug\WeatherREST.dll
+C:\Users\sonia\Desktop\WeatherREST\WeatherREST\obj\Debug\WeatherREST.pdb
+C:\Users\sonia\Desktop\WeatherREST\WeatherREST\bin\Debug\WeatherREST.WeatherREST.apk
+C:\Users\sonia\Desktop\WeatherREST\WeatherREST\bin\Debug\WeatherREST.WeatherREST-Signed.apk
+C:\Users\sonia\Desktop\WeatherREST\WeatherREST\obj\Debug\android\bin\WeatherREST.WeatherREST.apk
+C:\Users\sonia\Desktop\WeatherREST\WeatherREST\obj\Debug\res\layout\main.xml
+C:\Users\sonia\Desktop\WeatherREST\WeatherREST\obj\Debug\res\values\strings.xml
+C:\Users\sonia\Desktop\WeatherREST\WeatherREST\obj\Debug\res\drawable\icon.png
+C:\Users\sonia\Desktop\WeatherREST\WeatherREST\obj\Debug\R.cs.flag
+C:\Users\sonia\Desktop\WeatherREST\WeatherREST\obj\Debug\uploadflags.txt
+C:\Users\sonia\Desktop\WeatherREST\WeatherREST\obj\Debug\WeatherREST.csprojResolveAssemblyReference.cache
+C:\Users\sonia\Desktop\WeatherREST\WeatherREST\obj\Debug\res\layout\listviewtemplate.xml
